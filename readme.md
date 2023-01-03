@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="350" src="https://webprogrammer.io/wp-content/uploads/2022/05/laravel-queue-example-02.webp" /></a>
+<a href="#"><img width="100%" height="auto" src="https://webprogrammer.io/wp-content/uploads/2022/05/laravel-queue-example-02.webp" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm SEMER NUR</h1>
 <h3 align="center">Passionate Laravel,Telegram Bot Developer </h3>
