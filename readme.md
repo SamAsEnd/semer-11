@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭Dedicated Laravel,Telegram bot developer working on **[Asmid Telegram bot](https:asmid.net)**
+- 🔭Dedicated Laravel,Telegram bot developer working on **[Asmid Telegram bot](https://asmid.net)**
 
 - 👨‍💻 **[Portfolio](https://semer.ml)**
 
